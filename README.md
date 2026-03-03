@@ -4,3 +4,4 @@ github test-Arctic data workshop exercise
 ## Purpose
 - practice git
 - have fun
+- apply!

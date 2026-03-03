@@ -5,3 +5,4 @@ github test-Arctic data workshop exercise
 - practice git
 - have fun
 - apply!
+- go and have lunch
